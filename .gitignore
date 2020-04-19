@@ -1,0 +1,14 @@
+*.class
+*.log
+project/target
+lightbend.sbt
+project/lightbend.sbt
+tmp/
+  
+target/
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+.idea
+.DS_Store
